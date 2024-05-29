@@ -1,3 +1,4 @@
 .idea
 /data/
 /model.pth
+/model_weights.pth
